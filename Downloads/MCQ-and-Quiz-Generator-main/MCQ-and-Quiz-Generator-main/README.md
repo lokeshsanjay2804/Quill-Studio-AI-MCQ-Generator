@@ -182,9 +182,7 @@ This project provided practical experience in:
 
 Developed as an academic team project.
 
-- Contributor 1 – [Name]
-- Contributor 2 – [Name]
-- Contributor 3 – [Name]
+- Contributor 1 –Lokesh sanjay
 
 ## License
 
